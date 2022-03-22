@@ -1,0 +1,12 @@
+D:/TCC/A/teste/Middlewares/Third_Party/wolfSSL_wolfSSL_wolfSSL/wolfssl/wolfcrypt/src/hash.c:68:18:wc_HashTypeConvert	24	static
+D:/TCC/A/teste/Middlewares/Third_Party/wolfSSL_wolfSSL_wolfSSL/wolfssl/wolfcrypt/src/hash.c:140:5:wc_HashGetOID	24	static
+D:/TCC/A/teste/Middlewares/Third_Party/wolfSSL_wolfSSL_wolfSSL/wolfssl/wolfcrypt/src/hash.c:240:18:wc_OidGetHash	24	static
+D:/TCC/A/teste/Middlewares/Third_Party/wolfSSL_wolfSSL_wolfSSL/wolfssl/wolfcrypt/src/hash.c:304:5:wc_HashGetDigestSize	24	static
+D:/TCC/A/teste/Middlewares/Third_Party/wolfSSL_wolfSSL_wolfSSL/wolfssl/wolfcrypt/src/hash.c:415:5:wc_HashGetBlockSize	24	static
+D:/TCC/A/teste/Middlewares/Third_Party/wolfSSL_wolfSSL_wolfSSL/wolfssl/wolfcrypt/src/hash.c:525:5:wc_Hash	32	static
+D:/TCC/A/teste/Middlewares/Third_Party/wolfSSL_wolfSSL_wolfSSL/wolfssl/wolfcrypt/src/hash.c:640:5:wc_HashInit_ex	32	static
+D:/TCC/A/teste/Middlewares/Third_Party/wolfSSL_wolfSSL_wolfSSL/wolfssl/wolfcrypt/src/hash.c:739:5:wc_HashInit	16	static
+D:/TCC/A/teste/Middlewares/Third_Party/wolfSSL_wolfSSL_wolfSSL/wolfssl/wolfcrypt/src/hash.c:744:5:wc_HashUpdate	32	static
+D:/TCC/A/teste/Middlewares/Third_Party/wolfSSL_wolfSSL_wolfSSL/wolfssl/wolfcrypt/src/hash.c:840:5:wc_HashFinal	32	static
+D:/TCC/A/teste/Middlewares/Third_Party/wolfSSL_wolfSSL_wolfSSL/wolfssl/wolfcrypt/src/hash.c:935:5:wc_HashFree	24	static
+D:/TCC/A/teste/Middlewares/Third_Party/wolfSSL_wolfSSL_wolfSSL/wolfssl/wolfcrypt/src/hash.c:1310:9:wc_Sha256Hash	40	static
